@@ -10,3 +10,6 @@ Set file to read-only so that settings do not get overwritten/lost by accident.
 
 ## settings.cfg -- Game Settings
 File Location: `C:\Users\<user>\Saved Games\Respawn\Apex\local\`
+
+## profile.cfg -- User Settings
+File Location: `C:\Users\<user>\Saved Games\Respawn\Apex\profile\`
