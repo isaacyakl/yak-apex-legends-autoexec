@@ -4,7 +4,7 @@
 
 Run this with administrator access to deploy all the below config files to their appropriate locations.
 
-## update-repo-configs.bat -- Config Deployer
+## update-repo-configs.bat -- Repo Updater
 
 Run this with administrator access to copy game config files to the repo for git update.
 
