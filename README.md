@@ -16,7 +16,7 @@ File Location: `C:\Program Files (x86)\Origin Games\Apex\cfg\`
 
 File Location: `C:\Users\<user>\Saved Games\Respawn\Apex\local\`
 
-Set file to read-only so that settings do not get overwritten/lost by accident.
+Set file to read-only to keep settings from getting overwritten.
 
 ## settings.cfg -- Game Settings
 
