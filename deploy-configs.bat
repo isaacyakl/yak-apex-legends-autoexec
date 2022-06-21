@@ -10,6 +10,8 @@ ECHO Deploying videoconfig.txt
 attrib -R "%userprofile%\Saved Games\Respawn\Apex\local\videoconfig.txt"
 COPY "%~dp0\videoconfig.txt" "%userprofile%\Saved Games\Respawn\Apex\local\"
 attrib +R "%userprofile%\Saved Games\Respawn\Apex\local\videoconfig.txt"
+ECHO videoconfig.txt set to read-only
+explorer "%userprofile%\Saved Games\Respawn\Apex\local\"
 
 ECHO Deploying settings.cfg
 COPY "%~dp0\settings.cfg" "%userprofile%\Saved Games\Respawn\Apex\local\"
