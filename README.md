@@ -3,6 +3,7 @@
 Also see: [https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/autoexec.cfg](https://github.com/V3nilla/Apex-Legends-Config-And-Tweaks/blob/main/autoexec.cfg)
 
 ## Scripts
+
 ### deploy-repo-configs-to-system.bat -- Config Deployer
 
 Run this with administrator access to deploy all the below config files to their appropriate locations.
