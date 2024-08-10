@@ -20,7 +20,7 @@ Run this with administrator access to copy system game config files to the repo 
 
 ### autoexec.cfg -- Auto Executable
 
-File Location: `C:\Program Files (x86)\Origin Games\Apex\cfg\`
+File Location: `<Apex Legends Installation Directory>\cfg\`
 
 ### videoconfig.txt -- Video Settings
 
