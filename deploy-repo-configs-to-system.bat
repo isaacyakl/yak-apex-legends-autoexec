@@ -4,7 +4,9 @@
 
 ECHO Deploying autoexec.cfg
 COPY "%~dp0\autoexec.cfg" "C:\Program Files (x86)\Steam\steamapps\common\Apex Legends\cfg\"
-COPY "%~dp0\autoexec.cfg" "S:\SteamLibrary\steamapps\common\Apex Legends\cfg"
+COPY "%~dp0\autoexec.cfg" "G:\SteamLibrary\steamapps\common\Apex Legends\cfg"
+COPY "%~dp0\autoexec.cfg" "C:\Program Files (x86)\Origin Games\Apex\cfg\autoexec.cfg"
+COPY "%~dp0\autoexec.cfg" "S:\EA Games\Apex\cfg"
 
 ECHO Deploying videoconfig.txt
 @REM attrib -R "%userprofile%\Saved Games\Respawn\Apex\local\videoconfig.txt"
